@@ -1,1 +1,2 @@
-# Portfolio-Website
+# Portfolio Website
+This is the start of my own portfolio website that I am building! I would like to showcase my skills and projects visually rather than solely through a resume and GitHub link, so I decided that creating a responsive website from scratch would be a great solution and creative project in itself. Currently I am in the works of building the foundational aspects: page layout, navigation, contact form, etc. At the moment I have decided to solely use vanilla HTML, CSS, and JavaScript. That is all I have for now!
